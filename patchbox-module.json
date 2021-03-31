@@ -1,0 +1,15 @@
+{
+    "name": "dormir-sc",
+    "version": "0.0.4",
+    "description": "dormirs supercollider module test",
+    "author": "dormir",
+    "launch_mode": "auto",
+    "depends_on": [
+    ],
+    "scripts": {
+        "install": "install.sh",
+        "launch": "launch.sh",
+        "list": "list.sh",
+        "stop": "stop.sh"
+    }
+}
