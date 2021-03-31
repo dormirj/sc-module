@@ -1,7 +1,7 @@
 {
-    "name": "dormir-sc",
+    "name": "sc-module",
     "version": "0.0.4",
-    "description": "dormirs supercollider module test",
+    "description": "supercollider module test version",
     "author": "dormir",
     "launch_mode": "auto",
     "depends_on": [
